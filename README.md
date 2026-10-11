@@ -12,3 +12,7 @@ I automate IT operations in healthcare: AI triage agents, n8n workflows, and Int
 ## What I work with
 
 `n8n` `Jira Service Management` `Jira Assets / AQL` `Atlassian Rovo` `Google Workspace` `Microsoft Intune / Entra ID` `Python` `JavaScript` `PowerShell` `Google Cloud Run` `REST APIs & webhooks`
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/khadijah-ellis-3a1a03b1/) · [khadijah.ellis@protonmail.com](mailto:khadijah.ellis@protonmail.com)
