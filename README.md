@@ -8,10 +8,11 @@ I automate IT operations in healthcare: AI triage agents, n8n workflows, and Int
 
 - 🏗️ **[it-automation-portfolio](https://github.com/klosetk/it-automation-portfolio)**: architecture write-ups on onboarding and offboarding, asset management, and AI-assisted service desk reporting (generalized, no company data)
 - 🌐 **[Portfolio site](https://klosetk.github.io)**: projects, tooling, and documentation
+- 🏠 **[Interior Design System](https://klosetk.github.io/interior-design-system/)**: a repeatable system for AI interior design (locked room, six-pillar brief, prompt rules, scored audits), with a loft as the case study and a hover-to-shop lookbook
 
 ## What I work with
 
-`n8n` `Jira Service Management` `Jira Assets / AQL` `Atlassian Rovo` `Google Workspace` `Microsoft Intune / Entra ID` `Python` `JavaScript` `PowerShell` `Google Cloud Run` `REST APIs & webhooks`
+`n8n` `Jira Service Management` `Jira Assets / AQL` `Atlassian Rovo` `Google Workspace` `Microsoft Intune / Entra ID` `Python` `JavaScript` `PowerShell` `Google Cloud Run` `REST APIs & webhooks` `AI prompt architecture`
 
 ## Connect
 
