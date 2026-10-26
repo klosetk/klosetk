@@ -1,6 +1,6 @@
 # Hi, I'm Khadijah 👋
 
-**IT Systems Engineer & Automation Architect** · Austin, TX · Healthcare Enterprise IT
+**AI Architect / IT Systems Engineer & Administrator** · Austin, TX · Healthcare Enterprise IT
 
 I automate IT operations in healthcare: AI triage agents, n8n workflows, and Intune and Entra ID administration.
 
